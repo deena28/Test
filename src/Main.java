@@ -47,15 +47,15 @@ public class Main {
              max= Math.max(max,value.getValue());
 
           }  //
-          if(max==value.getValue()){
-
-                  int num=0;
-                  for(int i=0;i<value.getValue();i++){
-                      max+= value.getKey();
-                  }
-                  result= max;
-
-          }
+//          if(max==value.getValue()){
+//
+//                  int num=0;
+//                  for(int i=0;i<value.getValue();i++){
+//                      max+= value.getKey();
+//                  }
+//                  result= max;
+//
+//          }
 
 
         }
